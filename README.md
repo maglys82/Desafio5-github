@@ -1,2 +1,2 @@
-# Curriculum Vitae atraves de una plantilla.
+# Curriculum Vitae a partir de una plantilla.
 
